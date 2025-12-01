@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.BlackWhite" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/pure_black</item>
+        <item name="colorPrimaryVariant">@color/pure_black</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+        <item name="android:windowBackground">@color/pure_white</item>
+        <item name="colorControlActivated">@color/pure_black</item>
+        <item name="colorControlHighlight">@color/black_20</item>
+    </style>
+
+    <style name="BlackWhiteInputStyle" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/pure_black</item>
+        <item name="boxBackgroundColor">@color/pure_white</item>
+        <item name="hintTextColor">@color/black_60</item>
+
+        <item name="boxStrokeWidth">1.5dp</item>
+    </style>
+
+    <!-- Shape overlay used for circular bot avatar -->
+    <style name="ShapeAppearanceOverlay.MaterialComponents.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

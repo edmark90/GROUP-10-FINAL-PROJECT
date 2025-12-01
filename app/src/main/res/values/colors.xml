@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Black and White Theme Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_dark">#1A1A1A</color>
+    <color name="gray_light">#E5E5E5</color>
+    <color name="gray_medium">#808080</color>
+    
+    <!-- Background Colors -->
+    <color name="background_black">#000000</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="surface_black">#1A1A1A</color>
+    <color name="surface_white">#F5F5F5</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="gray_700">#FF616161</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_white">#FFFFFF</color>
+    <color name="text_primary_black">#000000</color>
+    <color name="text_secondary">#808080</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_white">#FFFFFF</color>
+    <color name="accent_black">#000000</color>
+
+
+        <color name="pure_black">#000000</color>
+        <color name="pure_white">#FFFFFF</color>
+        <color name="black_90">#1A1A1A</color>
+        <color name="black_80">#333333</color>
+        <color name="black_60">#666666</color>
+        <color name="black_40">#999999</color>
+        <color name="black_20">#CCCCCC</color>
+        <color name="black_10">#E6E6E6</color>
+        <color name="black_5">#F2F2F2</color>
+
+</resources>

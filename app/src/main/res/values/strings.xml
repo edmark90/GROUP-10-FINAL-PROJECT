@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="app_tagline">Your smart learning companion</string>
+    <string name="app_logo">StudyBuddy Logo</string>
+    <string name="version_info">Version 1.0</string>
+</resources>
